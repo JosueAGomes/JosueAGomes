@@ -1,9 +1,9 @@
 👋
 
 <div>
-  <a href="https://github.com/joosshuaa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joosshuaa&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joosshuaa&layout=compact&langs_count=16&theme=radical"/>
+  <a href="https://github.com/JosueAgomes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosueAGomes&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueAGomes&layout=compact&langs_count=16&theme=radical"/>
   </a>
 </div>
 
@@ -33,7 +33,7 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joosshuaa/joosshuaa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joosshuaa/joosshuaa/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joosshuaa/joosshuaa/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JosueAGomes/JosueAGomes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JosueAGomes/JosueAGomes/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JosueAGomes/JosueAGomes/output/github-contribution-grid-snake.svg">
 </picture>
