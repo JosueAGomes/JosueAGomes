@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou o Josué</h1>
+ <!--<h1 align="center">Olá! 👋 Eu sou o Josué</h1>  -->
 
 <p align="center">
   <a href="https://github.com/JosueAGomes">
@@ -6,14 +6,14 @@
   </a>
 </p>
 
-<div>
+<div align="center">
   <!--
-  <a href="https://github.com/JosueAgomes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosueAGomes&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueAGomes&layout=compact&langs_count=16&theme=radical"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=JosueAGomes&show_icons=true&theme=radical&include_all_commits=false&count_private=true" alt="GitHub Stats" style="display: inline-block; margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueAGomes&layout=compact&langs_count=16&theme=radical" alt="Top Languages" style="display: inline-block;"/>
    -->
 </div>
+
+<div align="center">
 
 
 
