@@ -11,7 +11,7 @@
 
 ---
 
-## GitHub Stats
+## Estatísticas 
 
 <p align="center">
   <img
@@ -26,7 +26,7 @@
 
 ---
 
-## Tecnologias
+## Tecnologias 
 
 <p align="center">
   <img alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
