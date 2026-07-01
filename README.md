@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/JosueAGomes">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E83EF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E83EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Passionate+About+Technology;Always+Learning+New+Things"
       alt="Typing SVG"
     />
   </a>
@@ -10,7 +10,7 @@
 
 ---
 
-## Estatísticas
+## Statistics
 
 <p align="center">
   <img
@@ -27,7 +27,7 @@
 
 ---
 
-## Tecnologias
+## Technologies
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 
 ---
 
-## Redes Sociais
+## Social Networks
 
 <p align="center">
   <a href="https://www.youtube.com/@ZephixFPS" target="_blank">
@@ -55,7 +55,7 @@
 
 ---
 
-## Contribuições
+## Contributions
 
 <p align="center">
   <picture>
