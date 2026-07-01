@@ -8,67 +8,68 @@
   </a>
 </p>
 
+---
 
-##  Estatísticas
+## Estatísticas
 
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=JosueAGomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=JosueAGomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueAGomes&layout=compact&langs_count=8&theme=radical"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=JosueAGomes&layout=compact&langs_count=8&theme=radical"
     alt="Top Languages"
   />
 </p>
 
-
-<!-- 
 ---
 
 ## Tecnologias
 
-<p align="center">
-  <img alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-  <img alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-  <img alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-</p>
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,html,css,git,github,vscode"/>
 
+</div>
 
-## 🌐 Redes Sociais
+---
+
+## Redes Sociais
 
 <p align="center">
-  <a href="https://www.youtube.com/@Josh12__72" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="(https://www.youtube.com/@ZephixFPS)" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+
   <a href="https://www.instagram.com/josueazevedoo/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+
   <a href="https://discord.gg/2txyhHdE" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
 ---
--->
-##  Contribuições
+
+## Contribuições
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/JosueAGomes/JosueAGomes/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/JosueAGomes/JosueAGomes/output/github-contribution-grid-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/JosueAGomes/JosueAGomes/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/JosueAGomes/JosueAGomes/output/github-contribution-grid-snake.svg"
+    />
     <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/JosueAGomes/JosueAGomes/output/github-contribution-grid-snake.svg">
+      alt="GitHub contribution grid snake animation"
+      src="https://raw.githubusercontent.com/JosueAGomes/JosueAGomes/output/github-contribution-grid-snake.svg"
+    />
   </picture>
 </p>
-
----
